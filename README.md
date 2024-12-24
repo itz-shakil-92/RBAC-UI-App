@@ -92,8 +92,6 @@ You can access the live version of the project here:
 - Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
 
 
-## Acknowledgment
-
-This project was developed as part of the **Frontend Developer Intern Assessment** for [VRV Security](https://vrvsecurity.com). Thank you for the opportunity to demonstrate my skills and creativity in building this Role-Based Access Control (RBAC) system.
+#
 
         
